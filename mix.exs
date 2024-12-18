@@ -33,7 +33,7 @@ defmodule SnowplowTracker.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:httpoison, "~> 1.1"},
+      {:httpoison, "~> 2.1"},
       {:jason, "~> 1.0"},
       {:elixir_uuid, "~> 1.2"},
       {:persistent_ets, "~> 0.2.1"},
